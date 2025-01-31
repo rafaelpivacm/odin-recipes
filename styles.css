@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:darksalmon;
+    text-align:center;
+}
+ul,ol {
+    text-align: left;
+    display:inline-block
+}
